@@ -1,0 +1,21 @@
+# Core numerical stack
+numpy>=1.23.0
+pandas>=1.5.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# PyTorch + geometric learning
+torch>=2.1.0
+torchvision>=0.16.0
+torch_geometric>=2.5.0
+torch_scatter>=2.1.2
+einops>=0.7.0
+
+# Attention / sequence utilities
+reformer-pytorch>=1.4.4
+
+# LLM adapters
+transformers>=4.37.0
+peft>=0.11.0
+sentencepiece>=0.1.99
+safetensors>=0.4.2
