@@ -1,6 +1,6 @@
 ![PatchGNN_LLM Framework](framework-1.png)
 
-# PatchGNN_LLM: Graph-Patching Meets LLMs
+# Bridging Structure and Semantics: Graph Neural Networks as Structural Anchors for Large Language Models in Irregular Time Series Forecasting
 
 This repository implements **PatchGNN_LLM** (the model in `model/PatchGNN_LLM.py`), our Irregular Multivariate Time Series (IMTS) forecaster that fuses graph-based patching with Large Language Models. Everything else in `model/` serves as baseline references (t-PatchGNN/Hi-Patch, TimeLLM, Qwen/Gemma/GPT variants, etc.).
 
