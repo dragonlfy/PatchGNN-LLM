@@ -1,4 +1,4 @@
-![PatchGNN_LLM Framework](framework-1.png)
+![PatchGNN_LLM Framework](framework4.png)
 
 # Bridging Structure and Semantics: Graph Neural Networks as Structural Anchors for Large Language Models in Irregular Time Series Forecasting
 
